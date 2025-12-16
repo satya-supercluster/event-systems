@@ -1,0 +1,9 @@
+event-systems/
+├── consistency/
+├── replication/
+├── ordering/
+├── resilience/
+├── observability/
+├── security/
+├── orchestration/
+└── design-notes/
